@@ -1,1 +1,1 @@
-# hanabi-game
+# random small games
